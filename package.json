@@ -1,5 +1,5 @@
 {
-  "name": "react-beforeunload",
+  "name": "react-beforeunload-fork",
   "version": "2.5.2",
   "description": "React component and hook which listens to the beforeunload window event.",
   "main": "lib/index.cjs.js",
